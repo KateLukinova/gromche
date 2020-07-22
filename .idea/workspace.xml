@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99f51885-a363-40bd-9c44-a2ec2310dbfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/datepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ads-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ads-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anywhere.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/anywhere.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow-gray.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carousel-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/carousel-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/certificate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/comfort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/comfort.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/course1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/course2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/course3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/file-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-f2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/keys-img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/keys-img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/keys-img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/keys-img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/login-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/nout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/password-show.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pasword-none.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pdf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/quote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/reset-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sertificat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/users.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/white-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regisrtration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-page.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YQVyIgnOYi5g5nwkAlqPKMXoFt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\verstka\p-genius" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99f51885-a363-40bd-9c44-a2ec2310dbfc" name="Default Changelist" comment="" />
+      <created>1582875057580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582875057580</updated>
+      <workItem from="1582875059240" duration="18470000" />
+      <workItem from="1582979962401" duration="1213000" />
+      <workItem from="1582983074534" duration="16117000" />
+      <workItem from="1583047168436" duration="25034000" />
+      <workItem from="1583143120579" duration="6424000" />
+      <workItem from="1583150284487" duration="10475000" />
+      <workItem from="1583214941200" duration="15163000" />
+      <workItem from="1583340528496" duration="8261000" />
+      <workItem from="1583389243880" duration="8780000" />
+      <workItem from="1583481282411" duration="10007000" />
+      <workItem from="1583588490297" duration="8642000" />
+      <workItem from="1583737422326" duration="2721000" />
+      <workItem from="1583751518493" duration="1247000" />
+      <workItem from="1583863251913" duration="10765000" />
+      <workItem from="1583908005526" duration="4417000" />
+      <workItem from="1583921248632" duration="8952000" />
+      <workItem from="1583943021952" duration="67000" />
+      <workItem from="1583946769371" duration="1343000" />
+      <workItem from="1583994379670" duration="5109000" />
+      <workItem from="1584001855076" duration="14105000" />
+      <workItem from="1584043795690" duration="2902000" />
+      <workItem from="1584078722430" duration="12351000" />
+      <workItem from="1584347276114" duration="14012000" />
+      <workItem from="1584430533986" duration="619000" />
+      <workItem from="1584529726948" duration="2028000" />
+      <workItem from="1584711467971" duration="936000" />
+      <workItem from="1584720193392" duration="3495000" />
+      <workItem from="1584908313306" duration="2979000" />
+      <workItem from="1584951617005" duration="6395000" />
+      <workItem from="1585035761334" duration="8468000" />
+      <workItem from="1585147539557" duration="724000" />
+      <workItem from="1585586841808" duration="12853000" />
+      <workItem from="1585635636762" duration="25959000" />
+      <workItem from="1585813762323" duration="205000" />
+      <workItem from="1588707281270" duration="1612000" />
+      <workItem from="1588746669098" duration="1268000" />
+      <workItem from="1590133415534" duration="844000" />
+      <workItem from="1590141529096" duration="17000" />
+      <workItem from="1593433086591" duration="2693000" />
+      <workItem from="1593684207427" duration="11408000" />
+      <workItem from="1594728068869" duration="1210000" />
+      <workItem from="1594730868229" duration="1202000" />
+      <workItem from="1594732100825" duration="3951000" />
+      <workItem from="1594758267886" duration="97000" />
+      <workItem from="1594799302857" duration="4719000" />
+      <workItem from="1594811550357" duration="817000" />
+      <workItem from="1594903595889" duration="7914000" />
+      <workItem from="1595237540981" duration="993000" />
+      <workItem from="1595240357080" duration="598000" />
+      <workItem from="1595262414187" duration="4081000" />
+      <workItem from="1595414212415" duration="2051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1594904787538">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1594904787538" />
+  </component>
+</project>
