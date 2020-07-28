@@ -64,7 +64,48 @@ $( document ).ready(function() {
 
     bar.animate(0.25);  // Number from 0.0 to 1.0
 
+    // collapse-block
+
+    var isVideoBoxOpened = true;
+
+    $('.exercise-video .name').on('click', function() {
+
+        $(this).toggleClass('no-active')
+
+        if (isVideoBoxOpened) {
+            $(this).siblings().slideUp()
+        } else {
+            $(this).siblings().slideDown()
+        }
+
+        isVideoBoxOpened = ! isVideoBoxOpened;
+
+    });
+
+    var isAudioBoxOpened = true;
+
+    $('.scales-caption').on('click', function() {
+
+        $(this).toggleClass('no-active')
+
+        if (isAudioBoxOpened) {
+            $(this).siblings().slideUp()
+        } else {
+            $(this).siblings().slideDown()
+        }
+
+        isAudioBoxOpened = ! isAudioBoxOpened;
+
+    });
 
 
+    // audio
+
+    $('.audio-track').mediaelementplayer({
+        alwaysShowControls: true,
+        features: ['playpause', 'progress', 'current'],
+        audioVolume: 'horizontal',
+        audioHeight: 60
+    });
 
 });
