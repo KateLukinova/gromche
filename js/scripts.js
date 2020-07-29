@@ -1,9 +1,30 @@
-//загрузка сверху страницы
-window.onbeforeunload = function () {
-    window.scrollTo(0, 0);
-}
 
 $( document ).ready(function() {
+
+    $("#menu").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+
+
+    // audio
+
+    $('.audio-track').mediaelementplayer({
+        alwaysShowControls: true,
+        features: ['playpause', 'progress', 'current'],
+        audioVolume: 'horizontal',
+        audioHeight: 60
+    });
+
+    // video
+
+    $('.video').mediaelementplayer({
+        alwaysShowControls: true,
+        features: ['playpause', 'progress', 'current']
+    });
+
 
     AOS.init({disable: 'mobile'});
 
@@ -96,16 +117,6 @@ $( document ).ready(function() {
 
         isAudioBoxOpened = ! isAudioBoxOpened;
 
-    });
-
-
-    // audio
-
-    $('.audio-track').mediaelementplayer({
-        alwaysShowControls: true,
-        features: ['playpause', 'progress', 'current'],
-        audioVolume: 'horizontal',
-        audioHeight: 60
     });
 
 });
