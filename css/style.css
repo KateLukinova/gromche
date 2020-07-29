@@ -926,6 +926,10 @@ nav .nav-link {
   border: none;
   outline: none;
   margin-top: 32px; }
+  .btn-mini:focus {
+    outline: none;
+    border: none;
+    box-shadow: none; }
 
 .practicum-page {
   display: -webkit-box;
